@@ -1,16 +1,31 @@
-# myapp
+# App - Planetas
 
-A new Flutter project.
+Este é um aplicativo móvel desenvolvido com Flutter e Dart, que permite ao usuário adicionar, editar e remover planetas de uma lista. O aplicativo oferece uma interface simples e intuitiva para gerenciar planetas, proporcionando uma experiência interativa e agradável.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Adicionar Planetas**: Permite adicionar planetas à lista com informações personalizadas.
+- **Editar Planetas**: Você pode modificar os detalhes de planetas já adicionados.
+- **Remover Planetas**: A qualquer momento, você pode remover planetas da lista.
+- **Interface Simples e Intuitiva**: Desenvolvido com o objetivo de ser fácil de usar e acessível.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework para desenvolvimento de aplicativos móveis.
+- **Dart**: Linguagem de programação usada no desenvolvimento do app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalação
+
+Siga os passos abaixo para configurar o projeto localmente:
+
+### Pré-requisitos
+
+- **Flutter**: Certifique-se de ter o Flutter instalado. Caso não tenha, siga as instruções no [site oficial](https://flutter.dev/docs/get-started/install).
+- **Dart**: O Flutter já inclui o Dart, então não é necessário instalar separadamente.
+
+### Passos
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Eiji-create/App---Planetas.git
